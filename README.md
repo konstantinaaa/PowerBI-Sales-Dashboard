@@ -1,6 +1,7 @@
 # Power BI Sales Dashboard
 
-This repository contains my Power BI project, created as part of my learning journey with the Udemy course *“Microsoft Power BI – Up & Running with Power BI Desktop.”*
+This repository contains my Power BI project, created as part of my learning journey with the Udemy course *“Microsoft Power BI Desktop for Business Intelligence
+”*
 
 ## 📊 Project Overview
 The goal of this project is to explore and visualize sales performance using Power BI.  
@@ -18,10 +19,7 @@ This project helped me practice data modeling, DAX, data cleaning, and dashboard
 ## 🛠 Tools & Technologies
 - **Power BI Desktop**
 - **Power Query**
-- **DAX (Data Analysis Expressions)**
-
-## 📁 Files in this Repository
-- `sales_dashboard.pbix` — The full Power BI report   
+- **DAX**
 
 ## 🚀 Key Skills Demonstrated
 - Data modeling (relationships, star schema basics)  
