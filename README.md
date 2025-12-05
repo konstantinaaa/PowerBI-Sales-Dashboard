@@ -28,6 +28,5 @@ This project helped me practice data modeling, DAX, data cleaning, and dashboard
 - Building interactive visuals  
 - Designing a clean, professional dashboard layout  
 
-## 📷 Screenshots
 
 <img width="1913" height="970" alt="Screenshot 2025-12-05 112409" src="https://github.com/user-attachments/assets/917604a4-8cf3-4ed9-9154-ef9911948b21" />
